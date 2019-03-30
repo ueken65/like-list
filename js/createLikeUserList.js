@@ -72,4 +72,5 @@ function selectDomElm(obj){
     var selection = window.getSelection();
     selection.removeAllRanges();
     selection.addRange(range);
-   }
+}
+
