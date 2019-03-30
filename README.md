@@ -8,3 +8,6 @@ chromeの拡張機能のデベロッパーモードをオンにして、`パッ�
 - 左上のボタンをクリックするとリストが表示される
 ## その他
 - リストを出した後に再度ダイアログを出した後、ダイアログを閉じてリストをクリックすると更新される
+- CDNキャッシュクリア
+  - https://purge.jsdelivr.net/npm/ueken65/master/css/style.css
+  - https://purge.jsdelivr.net/npm/ueken65/master/js/createLikeUserList.js
