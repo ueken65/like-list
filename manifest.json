@@ -3,8 +3,7 @@
   "description": "インスタのいいねリスト抽出",
   "version": "1.0",
   "content_scripts": [{
-    "js": ["js/like_list.js"],
-    "css": ["css/style.css"],
+    "js": ["js/loadCreateLikeUserList.js"],
     "matches": ["http://www.instagram.com/*", "https://www.instagram.com/*"]
   }],
   "browser_action": {
